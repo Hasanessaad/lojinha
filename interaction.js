@@ -20,7 +20,7 @@ let ITENS_LOJA = [
     {
         nome:"Escorredor de Louça",
         preco:15.20,
-        url_img:"../img/escorredor_louca (2).webp",
+        url_img:"./img/escorredor_louca (2).webp",
         descricao:"Utilizando para ajudar no processo de secagem dos utensilios"
     },
     {
