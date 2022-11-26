@@ -71,5 +71,3 @@ for(let i=0; i <  ITENS_LOJA.length ;i++){
     box.appendChild(description);
     
 }
-
-
